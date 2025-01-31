@@ -1,1 +1,1 @@
-this file contails deployment
+this file contails deployment process
